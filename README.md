@@ -8,8 +8,8 @@ Aplicação Ecoleta - Front-end Web, Back-end (Next Level Week #1)
 ![4](https://user-images.githubusercontent.com/48495838/83978357-54abb780-a8dd-11ea-878a-8f45b1e049eb.png) <br>
 ![5](https://user-images.githubusercontent.com/48495838/83978358-55dce480-a8dd-11ea-994c-15c6c58e0c39.png) <br>
 ![6](https://user-images.githubusercontent.com/48495838/83978359-56757b00-a8dd-11ea-8c28-2f73cbed985c.png) <br>
-![7](https://user-images.githubusercontent.com/48495838/83978360-56757b00-a8dd-11ea-9cde-889b8e1bef21.png) <br>
 ![8](https://user-images.githubusercontent.com/48495838/83978361-570e1180-a8dd-11ea-91dd-7a8762e900ca.png) <br>
+![7](https://user-images.githubusercontent.com/48495838/83978360-56757b00-a8dd-11ea-9cde-889b8e1bef21.png) <br>
 ![9](https://user-images.githubusercontent.com/48495838/83978362-57a6a800-a8dd-11ea-9528-bd8e392be2ea.png) <br>
 
 
