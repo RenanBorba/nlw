@@ -11,7 +11,7 @@ body::after {
   left: 0;
   bottom: 0;
   /* pelo elemento raíz */
-  height: 20rem;
+  height: 17rem;
   z-index: -1
 }
 
