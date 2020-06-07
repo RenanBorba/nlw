@@ -1,0 +1,105 @@
+@media (max-width: 900px) {
+  #page-home {
+    background: var(--background-color)
+  }
+
+/** ipad/tablet resposive screen
+  * <a> abaixo do <button>
+  #page-home header a {
+    position: absolute;
+    bottom: 48px;
+    // mobile phone
+    //   bottom: -30px; até -40px;
+    left: 50%;
+    transform: translateX(-50%)
+  }
+**/
+
+  #page-home .content {
+    align-items: center;
+    text-align: center
+  }
+
+  #page-home main {
+    align-items: center
+  }
+
+  #page-create-point {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-left: 0;
+    align-items: center;
+    text-align: center
+  }
+
+  #page-create-point .field-group {
+    flex-direction: column
+  }
+
+  #page-create-point .field-group .field + .field {
+    margin-left: 0
+  }
+
+  #page-create-point form legend {
+    display: flex;
+    flex-direction: column
+  }
+
+  #page-create-point .items-grid {
+    grid-template-columns: 1fr
+  }
+
+  #page-create-point form button {
+    flex: 1;
+    width: 200px;
+    height: 40px;
+    margin-left: 0;
+    font-size: 14px
+  }
+
+  #page-create-point header,
+  #page-search-results header,
+  #page-home header {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 25px;
+    align-items: center;
+    text-align: center
+  }
+
+  #page-create-point img,
+  #page-search-results img,
+  #page-home img {
+    margin-bottom: 16px
+  }
+
+  body::after {
+    content: "";
+    background: none
+  }
+
+  #page-search-results .cards {
+    grid-template-columns: 1fr
+  }
+
+  #page-search-results .cards img {
+    height: 200px
+  }
+
+  #modal .content {
+    width: 90%
+  }
+}
+
+@media (min-width: 1700px) {
+  #page-home {
+    background-position-x: 40vw
+  }
+}
+
+@media (max-height: 760px) {
+  #page-home {
+    background-position-y: 200px
+  }
+}
