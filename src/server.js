@@ -66,7 +66,9 @@ server.post("/save-point", (req, res) => {
   function afterInsertData(err) {
     if (err) {
       console.log(err)
-      return res.send("Erro no cadastro! Tente novamente.")
+      // return res.send("Erro no cadastro! Tente novamente.")
+
+      return res.render("create-point.html", { saved: false })
     }
 
     // console.log("Cadastrado com sucesso")
