@@ -1,11 +1,17 @@
+body {
+  background-color: white
+}
+
 body::after {
   content: "";
   position: absolute;
-  background: white;
-  top: 268px;
+  background: var(--background-color);
+  top: 0;
   right: 0;
   left: 0;
   bottom: 0;
+  /* pelo elemento raíz */
+  height: 20rem;
   z-index: -1
 }
 

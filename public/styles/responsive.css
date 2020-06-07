@@ -8,8 +8,6 @@
   #page-home header a {
     position: absolute;
     bottom: 48px;
-    // mobile phone
-    //   bottom: -30px; até -40px;
     left: 50%;
     transform: translateX(-50%)
   }
@@ -74,10 +72,12 @@
     margin-bottom: 16px
   }
 
+  /*
   body::after {
     content: "";
     background: none
   }
+  */
 
   #page-search-results .cards {
     grid-template-columns: 1fr
