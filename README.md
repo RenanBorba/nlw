@@ -43,7 +43,7 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 ### Back-end
 <ul>
   <li>Node.js</li>
-  <li>nodemon</li> 
+  <li>Nodemon</li> 
   <li>Routes</li>
   <li>Express</li> 
   <li>Template Engine</li>
@@ -141,7 +141,7 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 
 <br><br><br>
 
-## Interface após o usuário selecionar a pesquisa de pontos de coleta (mobile)
+### Interface após o usuário selecionar a pesquisa de pontos de coleta (mobile)
 
 <div align="center">
 
@@ -151,7 +151,7 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 
 <br><br><br>
 
-## Interface após a pesquisa de pontos (mobile)
+### Interface após a pesquisa de pontos (mobile)
 
 <div align="center">
 
