@@ -1,5 +1,67 @@
-# NLW
-Aplicação Ecoleta - Front-end Web, Back-end (Next Level Week #1)
+<div align="center">
+
+## Rocketseat - Semana Next Level Week NLW #1
+# Projeto - Aplicação Ecoleta
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Build Status](https://img.shields.io/github/stars/RenanBorba/ecoleta.svg)](https://github.com/RenanBorba/ecoleta) [![Build Status](https://img.shields.io/github/forks/RenanBorba/ecoleta.svg)](https://github.com/RenanBorba/ecoleta)
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+![logo](https://user-images.githubusercontent.com/48495838/80030077-19d0fa00-84be-11ea-8134-79c40d91f883.png)
+
+</div>
+
+<br><br>
+
+Aplicação Full MVC desenvolvida para o site Ecoleta que é voltado para cadastro e busca de pontos de coleta de materiais recicláveis e resíduos. ♻️
+
+<br><br>
+
+## :rocket: Tecnologias
+### Front-end
+<ul>
+  <li>HTML</li> 
+  <li>CSS</li>
+  <li>Google Fonts</li>
+  <li>Javascript</li>  
+  <li>IBGE API de Localidades</li>
+  <li>Fetch API</li> 
+</ul>
+
+<br>
+
+### Back-end
+<ul>
+  <li>Node.js</li>
+  <li>nodemon</li> 
+  <li>Routes</li>
+  <li>Express</li> 
+  <li>Template Engine</li>
+  <li>Nunjucks</li>
+  <li>Sqlite</li> 
+</ul>
+
+<br><br><br>
+
+## :arrow_forward: Start
+<ul>
+  <li>npm install</li>
+  <li>npm run start / npm start</li>
+</ul>
+
+<br>
+
+<br><br>
 
 ## :punch: Como contribuir 
 <ul>
@@ -17,6 +79,12 @@ Aplicação Ecoleta - Front-end Web, Back-end (Next Level Week #1)
       <li>git push origin my-feature</li>
     </ul>
 </ul>
+<br><br><br>
+
+## :mega: Segue abaixo as principais interfaces:
+
+![000](https://user-images.githubusercontent.com/48495838/83179850-f4f12780-a0f8-11ea-84a3-9acdd86c8517.png)
+
 <br><br><br>
 
 ![0](https://user-images.githubusercontent.com/48495838/83978346-41005100-a8dd-11ea-838b-bb9e4d487684.png) 
