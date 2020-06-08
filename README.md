@@ -23,7 +23,7 @@
 
 <br><br>
 
-Aplicação Full MVC desenvolvida para o site Ecoleta que é voltado para cadastro e busca de pontos de coleta de materiais recicláveis e resíduos. ♻️
+Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado para cadastro e busca de pontos de coleta de materiais recicláveis e resíduos. ♻️
 
 <br><br>
 
