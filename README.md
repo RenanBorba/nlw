@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![logo](https://user-images.githubusercontent.com/48495838/80030077-19d0fa00-84be-11ea-8134-79c40d91f883.png)
+![logo](https://user-images.githubusercontent.com/48495838/84052952-a14bcd00-a987-11ea-86ea-5fa647764c5d.png)
 
 </div>
 
