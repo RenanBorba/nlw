@@ -92,11 +92,11 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 
 <br><br><br>
 
-![2](https://user-images.githubusercontent.com/48495838/83978348-42ca1480-a8dd-11ea-8922-680a884c094d.png) 
+![02](https://user-images.githubusercontent.com/48495838/84054837-58494800-a98a-11ea-9980-30144d526fc0.png)
 
 <br><br><br>
 
-![3](https://user-images.githubusercontent.com/48495838/83978349-4362ab00-a8dd-11ea-8fe2-2182e0f1d2cf.png) 
+![03](https://user-images.githubusercontent.com/48495838/84055000-95add580-a98a-11ea-985f-49d965da1bdb.png)
 
 <br><br><br>
 
@@ -112,7 +112,7 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 
 <br><br><br>
 
-![8](https://user-images.githubusercontent.com/48495838/83978361-570e1180-a8dd-11ea-91dd-7a8762e900ca.png) 
+![08](https://user-images.githubusercontent.com/48495838/84054839-58494800-a98a-11ea-9c43-814601822c33.png)
 
 <br><br><br>
 
@@ -120,8 +120,7 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 
 <br><br><br>
 
-![9](https://user-images.githubusercontent.com/48495838/83978514-5de95400-a8de-11ea-9cdf-9bffb51b48a6.png) { width: 411px; height: 823px }
-
+![09](https://user-images.githubusercontent.com/48495838/84054835-57b0b180-a98a-11ea-9193-87457ce2ad1c.png)
 
 <br><br><br><br>
 
