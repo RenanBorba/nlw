@@ -141,7 +141,7 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 
 <br><br><br>
 
-### Interface após o usuário selecionar a pesquisa de pontos de coleta (mobile)
+### Interface após o usuário selecionar a pesquisa de pontos de coleta (Mobile)
 
 <div align="center">
 
@@ -151,7 +151,7 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 
 <br><br><br>
 
-### Interface após a pesquisa de pontos (mobile)
+### Interface após a pesquisa de pontos (Mobile)
 
 <div align="center">
 
