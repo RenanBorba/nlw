@@ -83,9 +83,7 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 
 ## :mega: Segue abaixo as principais interfaces:
 
-![000](https://user-images.githubusercontent.com/48495838/83179850-f4f12780-a0f8-11ea-84a3-9acdd86c8517.png)
-
-<br><br><br>
+<br><br>
 
 ![0](https://user-images.githubusercontent.com/48495838/83978346-41005100-a8dd-11ea-838b-bb9e4d487684.png) 
 
