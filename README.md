@@ -105,7 +105,11 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 
 ![2](https://user-images.githubusercontent.com/48495838/84055549-5df35d80-a98b-11ea-9bcb-00c90653a35a.png)
 
-<br><br><br>
+<br><br>
+
+![cadastro](https://user-images.githubusercontent.com/48495838/84180520-040f9800-aa5e-11ea-8b94-56a6ac930682.gif)
+
+<br><br><br><br>
 
 ### Interface de Cadastro de ponto de coleta (Mobile)
 
@@ -113,9 +117,13 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 
 ![03](https://user-images.githubusercontent.com/48495838/84055000-95add580-a98a-11ea-985f-49d965da1bdb.png)
 
+<br><br>
+
+![cadastro-mobile](https://user-images.githubusercontent.com/48495838/84180522-04a82e80-aa5e-11ea-86c5-7d6536ce0732.gif)
+
 </div>
 
-<br><br><br>
+<br><br><br><br>
 
 ### Interface após conclusão do cadastro
 
@@ -139,7 +147,11 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 
 ![8](https://user-images.githubusercontent.com/48495838/84055576-677cc580-a98b-11ea-8fdd-b6baeb921835.png)
 
-<br><br><br>
+<br><br>
+
+![busca](https://user-images.githubusercontent.com/48495838/84180515-0114a780-aa5e-11ea-987c-72d4a4adb400.gif)
+
+<br><br><br><br>
 
 ### Interface após o usuário selecionar a pesquisa de pontos de coleta (Mobile)
 
@@ -157,8 +169,12 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 
 ![09](https://user-images.githubusercontent.com/48495838/84054835-57b0b180-a98a-11ea-9193-87457ce2ad1c.png)
 
+<br><br>
+
+![busca-mobile](https://user-images.githubusercontent.com/48495838/84180517-02de6b00-aa5e-11ea-8355-fdce4d8de387.gif)<br><br>
+
 </div>
 
-<br><br><br><br>
+<br><br>
 
 Renan Borba.
