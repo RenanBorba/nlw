@@ -175,7 +175,7 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 
 <div align="center">
 
-![09](https://user-images.githubusercontent.com/48495838/84054835-57b0b180-a98a-11ea-9193-87457ce2ad1c.png)
+![100](https://user-images.githubusercontent.com/48495838/84303473-68e5f380-ab2d-11ea-8152-756a2f974915.png)
 
 <br><br>
 
