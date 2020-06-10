@@ -30,12 +30,12 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 ## :rocket: Tecnologias
 ### Front-end
 <ul>
-  <li>HTML</li> 
+  <li>HTML</li>
   <li>CSS</li>
   <li>Google Fonts</li>
-  <li>Javascript</li>  
+  <li>Javascript</li>
   <li>IBGE API de Localidades</li>
-  <li>Fetch API</li> 
+  <li>Fetch API</li>
 </ul>
 
 <br>
@@ -43,12 +43,12 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 ### Back-end
 <ul>
   <li>Node.js</li>
-  <li>Nodemon</li> 
+  <li>Nodemon</li>
   <li>Routes</li>
-  <li>Express</li> 
+  <li>Express</li>
   <li>Template Engine</li>
   <li>Nunjucks</li>
-  <li>Sqlite</li> 
+  <li>Sqlite</li>
 </ul>
 
 <br><br><br>
