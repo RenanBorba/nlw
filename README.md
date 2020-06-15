@@ -25,7 +25,19 @@
 
 Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado para cadastro e busca de pontos de coleta de materiais recicláveis e resíduos. ♻️
 
+<br><br><br>
+
+<div align="center">
+  
+![ecoleta-web](https://user-images.githubusercontent.com/48495838/84701414-5273d980-af2b-11ea-9618-3b23009b9d8e.png)
+
 <br><br>
+
+![ecoleta-mobile](https://user-images.githubusercontent.com/48495838/84701412-5142ac80-af2b-11ea-9025-4870363461f5.png)
+
+</div>
+
+<br><br><br>
 
 ## :rocket: Tecnologias
 ### Front-end
