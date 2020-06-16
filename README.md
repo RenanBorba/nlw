@@ -195,6 +195,7 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 
 </div>
 
-<br><br><br>
+<br><br>
+<br>
 
 Renan Borba.
