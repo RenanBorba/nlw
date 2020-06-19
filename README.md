@@ -45,7 +45,7 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
   <li>HTML</li>
   <li>CSS</li>
   <li>Google Fonts</li>
-  <li>Javascript</li>
+  <li>JS</li>
   <li>IBGE API de Localidades</li>
   <li>Fetch API</li>
 </ul>
