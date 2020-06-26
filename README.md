@@ -9,11 +9,11 @@
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/ecoleta.svg)](https://github.com/RenanBorba/ecoleta) [![Build Status](https://img.shields.io/github/forks/RenanBorba/ecoleta.svg)](https://github.com/RenanBorba/ecoleta)
+[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/ecoleta.svg)](https://github.com/RenanBorba/ecoleta) [![Build Status](https://img.shields.io/github/forks/RenanBorba/ecoleta.svg)](https://github.com/RenanBorba/ecoleta) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
@@ -195,7 +195,3 @@ Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado 
 ![busca-mobile](https://user-images.githubusercontent.com/48495838/84821680-df816600-aff1-11ea-9d5d-fc9afd709567.gif)
 
 </div>
-
-<br><br><br>
-
-Renan Borba.
