@@ -23,7 +23,11 @@
 
 <br>
 
-Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado para cadastro e busca de pontos de coleta de materiais recicláveis e resíduos. ♻️
+Aplicação Full MVC desenvolvida para o site responsivo Ecoleta que é voltado para cadastro e busca de pontos de coleta de materiais recicláveis e resíduos.
+#### Como funciona a coleta seletiva?
+
+Segundo o Ministério do Meio Ambiente, as formas mais comuns de coleta seletiva hoje existentes no Brasil são a coleta porta-a-porta e a coleta por Pontos de Entrega Voluntária (PEVs). A coleta porta-a-porta pode ser realizada tanto pelo prestador do serviço público de limpeza e manejo dos resíduos sólidos (público ou privado) quanto por associações ou cooperativas de catadores de materiais recicláveis. É o tipo de coleta em que um caminhão ou outro veículo passa em frente às residências e comércios recolhendo os resíduos que foram separados pela população.<br>
+Já os pontos de entrega voluntária consistem em locais situados estrategicamente próximos de um conjunto de residências ou instituições para entrega dos resíduos segregados e posterior coleta pelo poder público. ♻️
 
 <br><br><br>
 
