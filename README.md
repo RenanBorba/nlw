@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">  
 
 ## Rocketseat - Semana Next Level Week NLW #1
 # Projeto - Aplicação Ecoleta
