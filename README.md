@@ -33,7 +33,7 @@ Já os pontos de entrega voluntária consistem em locais situados estrategicamen
 
 <div align="center">
   
-![ecoleta-web](https://user-images.githubusercontent.com/48495838/84701414-5273d980-af2b-11ea-9618-3b23009b9d8e.png)
+![ecoleta](https://user-images.githubusercontent.com/48495838/86255485-8c7ce680-bb8d-11ea-9616-b077c71ee093.png)
 
 <br><br>
 
